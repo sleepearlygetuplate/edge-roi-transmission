@@ -1,6 +1,7 @@
-# 只跟踪核心源码，其他全部忽略
+# 只跟踪核心源码 + README，其他全部忽略
 *
 !.gitignore
+!README.md
 !edge_sender.py
 !edge_receiver.py
 !utils.py
