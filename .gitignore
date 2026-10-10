@@ -1,0 +1,6 @@
+# 只跟踪核心源码，其他全部忽略
+*
+!.gitignore
+!edge_sender.py
+!edge_receiver.py
+!utils.py
